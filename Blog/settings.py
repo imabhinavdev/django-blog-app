@@ -70,10 +70,10 @@ TEMPLATES = [
     },
 ]
 
-# WSGI_APPLICATION = 'Blog.wsgi.application'
+WSGI_APPLICATION = 'Blog.wsgi.application'
 
 # api/settings.py
-WSGI_APPLICATION = 'api.wsgi.app'
+# WSGI_APPLICATION = 'api.wsgi.app'
 
 
 # Database
